@@ -1,4 +1,4 @@
 # RatRace
 TestForTelega
 
-![alt text](./InstructionImages/1.png)
+![image 1](./InstructionImages/1.png)
